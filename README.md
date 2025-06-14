@@ -1,3 +1,4 @@
 # Mini_Project_of_adding_marks
 ###Mini_Project_of_adding_marks
- ![Screenshot (6)](https://github.com/user-attachments/assets/1c1162cf-dbeb-4185-bec1-68823bbb1948)
+  
+![IMG_20250614_232859](https://github.com/user-attachments/assets/6d65e0bb-9a64-4a76-94e0-14fb869d9465)
